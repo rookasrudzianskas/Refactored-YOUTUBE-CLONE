@@ -25,16 +25,16 @@ const Header = () => {
             {/* this is all in middle */}
             <div className="header__input">
 
-                <input type="text"/>
+                <input placeholder="Search" type="text"/>
                 <SearchIcon className="header__inputButton"/>
 
             </div>
             {/* this is all in right*/}
             <div className="header__icons">
 
-                <VideoCallIcon />
-                <AppsIcon />
-                <NotificationsIcon />
+                <VideoCallIcon className="header__icon"/>
+                <AppsIcon className="header__icon" />
+                <NotificationsIcon className="header__icon"/>
                 <Avatar
                     alt="Rokas"
                     src="https://avatars.githubusercontent.com/u/38469892?v=4"

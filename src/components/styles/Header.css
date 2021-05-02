@@ -18,6 +18,10 @@
     border: 1px solid lightgray;
 }
 
+.header__icon {
+    margin-right: 8px;
+}
+
 .header__inputButton {
     width: 50px !important;
     background-color: #fafafa;
