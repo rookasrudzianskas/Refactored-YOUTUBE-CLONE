@@ -10,7 +10,13 @@ import Avatar from "@material-ui/core/Avatar";
 const Header = () => {
     return (
         <div className="header">
+            <MenuIcon />
 
+            <img
+                className="header__logo"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/400px-YouTube_Logo_2017.svg.png"
+                alt="Youtube Logo"
+            />
         </div>
     )
 }
