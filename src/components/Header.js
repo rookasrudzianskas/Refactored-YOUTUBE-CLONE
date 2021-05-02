@@ -10,25 +10,37 @@ import Avatar from "@material-ui/core/Avatar";
 const Header = () => {
     return (
         <div className="header">
-            {/*div.header__*/}
-            <MenuIcon />
+            {/* this is all in the left */}
+            <div className="header__left">
 
-            <img
-                className="header__logo"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/400px-YouTube_Logo_2017.svg.png"
-                alt="Youtube Logo"
-            />
+                <MenuIcon />
 
-            <input type="text"/>
-            <SearchIcon />
+                <img
+                    className="header__logo"
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/400px-YouTube_Logo_2017.svg.png"
+                    alt="Youtube Logo"
+                />
 
-            <VideoCallIcon />
-            <AppsIcon />
-            <NotificationsIcon />
-            <Avatar
-                alt="Rokas"
-                src="https://avatars.githubusercontent.com/u/38469892?v=4"
-            />
+            </div>
+            {/* this is all in middle */}
+            <div className="header__input">
+
+                <input type="text"/>
+                <SearchIcon />
+
+            </div>
+            {/* this is all in right*/}
+            <div className="header__icons">
+
+                <VideoCallIcon />
+                <AppsIcon />
+                <NotificationsIcon />
+                <Avatar
+                    alt="Rokas"
+                    src="https://avatars.githubusercontent.com/u/38469892?v=4"
+                />
+
+            </div>
         </div>
     );
 }
