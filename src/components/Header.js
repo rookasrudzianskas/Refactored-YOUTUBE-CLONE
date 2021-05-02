@@ -26,7 +26,7 @@ const Header = () => {
             <div className="header__input">
 
                 <input type="text"/>
-                <SearchIcon />
+                <SearchIcon className="header__inputButton"/>
 
             </div>
             {/* this is all in right*/}
