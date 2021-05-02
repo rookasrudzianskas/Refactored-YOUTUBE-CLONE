@@ -10,6 +10,7 @@ import Avatar from "@material-ui/core/Avatar";
 const Header = () => {
     return (
         <div className="header">
+            {/*div.header__*/}
             <MenuIcon />
 
             <img
