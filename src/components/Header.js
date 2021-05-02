@@ -17,8 +17,19 @@ const Header = () => {
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/400px-YouTube_Logo_2017.svg.png"
                 alt="Youtube Logo"
             />
+
+            <input type="text"/>
+            <SearchIcon />
+
+            <VideoCallIcon />
+            <AppsIcon />
+            <NotificationsIcon />
+            <Avatar
+                alt="Rokas"
+                src="https://avatars.githubusercontent.com/u/38469892?v=4"
+            />
         </div>
-    )
+    );
 }
 
 export default Header;
