@@ -13,13 +13,14 @@ const SearchPage = () => {
                 <h2>FILTER</h2>
             </div>
             <hr />
+
             <ChannelRow
-                image="https://yt3.ggpht.com/ytc/AAUvwnj8RtKKAlRthZGyfivC3fsPuYjXW_E0n6P3RoNj=s88-c-k-c0x00ffffff-no-rj"
-                channel="Ed Sheeran"
+                image="https://pbs.twimg.com/profile_images/1350895249678348292/RS1Aa0iK.jpg"
+                channel="Rokas Rudzianskas"
                 verified
                 subs="46.5M"
                 noOfVideos={111}
-                description="Music is a Magic"
+                description="Coding is magic 🚀"
             />
             <hr />
 
