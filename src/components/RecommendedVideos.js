@@ -5,7 +5,7 @@ import VideoCard from "./VideoCard";
 const RecommendedVideos = () => {
     return (
         <div className="recommendedVideos">
-            <h1>Recommended</h1>
+            <h1>Recommended</h1><br/>
             <div className="recommendedVideos__videos">
                 {/* videos componenets, passing the title, views, timestamp, channelImmage, channel, image as props*/}
                 <VideoCard
