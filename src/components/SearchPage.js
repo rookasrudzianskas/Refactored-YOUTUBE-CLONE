@@ -35,6 +35,138 @@ const SearchPage = () => {
                 image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
             />
 
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
+            <VideoRow
+                views="33M"
+                subs="46.5M"
+                description="The official performance video for Ed Sheeran - Afterglow "
+                timestamp="2 weeks ago"
+                channel="Ed Sheeran"
+                title="Ed Sheeran - Afterglow [Official Performance Video]
+        "
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
+            />
+
 
         </div>
     );

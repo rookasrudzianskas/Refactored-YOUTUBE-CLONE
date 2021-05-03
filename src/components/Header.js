@@ -13,7 +13,7 @@ const Header = () => {
 
     // keeping track of the info
     const [inputSearch, setInputSearch] = useState('');
-    console.log('👽', inputSearch);
+    // console.log('👽', inputSearch);
 
     return (
         <div className="header">
