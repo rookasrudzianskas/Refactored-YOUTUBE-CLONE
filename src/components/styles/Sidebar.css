@@ -1,0 +1,4 @@
+.sidebar {
+    /* for this container give the width only 20%*/
+    flex: 0.2;
+}
