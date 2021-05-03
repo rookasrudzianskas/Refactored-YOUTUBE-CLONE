@@ -1,9 +1,9 @@
 import React from "react";
 import "./styles/VideoRow.css";
 
-const VideoRow = () => {
+const VideoRow = ({  views, subs, description, timestamp, channel, title, image }) => {
     return (
-        <div>
+        <div className="videoRow">
 
         </div>
     )
