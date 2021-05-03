@@ -32,7 +32,7 @@ const SearchPage = () => {
                 channel="Ed Sheeran"
                 title="Ed Sheeran - Afterglow [Official Performance Video]
         "
-                image="https://i.ytimg.com/an_webp/_NGQfFCFUn4/mqdefault_6s.webp?du=3000&sqp=CKTi4v8F&rs=AOn4CLAYJqWypDgLqq89dfF51I2usCvmuw"
+                image="https://img.youtube.com/vi/xP3cxbDUtrc/maxresdefault.jpg"
             />
 
             <VideoRow
@@ -52,7 +52,7 @@ const SearchPage = () => {
                 timestamp="1 years ago"
                 channel="Ed Sheeran"
                 title="Ed Sheeran - Beautiful People (feat. Khalid) [Official Music Video]"
-                image="https://i.ytimg.com/an_webp/mj0XInqZMHY/mqdefault_6s.webp?du=3000&sqp=CJjR4v8F&rs=AOn4CLBnW8QfpzFd6j8s0kzyhqBz10w05A"
+                image="https://img.youtube.com/vi/KPUEvRo5xtY/maxresdefault.jpg"
             />
 
             <VideoRow
@@ -62,7 +62,7 @@ const SearchPage = () => {
                 timestamp="3 years ago"
                 channel="Ed Sheeran"
                 title="Ed Sheeran - Perfect (Official Music Video)"
-                image="https://i.ytimg.com/an_webp/2Vv-BfVoq4g/mqdefault_6s.webp?du=3000&sqp=CLjv4v8F&rs=AOn4CLD8mvuA2ydhpUiInLRqkgMhNaHmEA"
+                image="https://img.youtube.com/vi/KPUEvRo5xtY/maxresdefault.jpg"
             />
 
             <VideoRow
@@ -72,7 +72,7 @@ const SearchPage = () => {
                 timestamp="3 years ago"
                 channel="Ed Sheeran"
                 title="Ed Sheeran - Shape of You (Official Music Video)"
-                image="https://i.ytimg.com/an_webp/JGwWNGJdvx8/mqdefault_6s.webp?du=3000&sqp=CLS24v8F&rs=AOn4CLDcZ4Xz3CQw-bGuovA-SMXowM_VIg"
+                image="https://img.youtube.com/vi/KPUEvRo5xtY/maxresdefault.jpg"
             />
 
             <VideoRow
@@ -82,7 +82,7 @@ const SearchPage = () => {
                 timestamp="5 years ago"
                 channel="Ed Sheeran"
                 title="Ed Sheeran - Photograph (Official Music Video)"
-                image="https://i.ytimg.com/an_webp/nSDgHBxUbVQ/mqdefault_6s.webp?du=3000&sqp=CMyz4v8F&rs=AOn4CLB5rD8P-txN70XgZzuA6zovwbC-tA"
+                image="https://img.youtube.com/vi/KPUEvRo5xtY/maxresdefault.jpg"
             />
         </div>
     );
