@@ -43,3 +43,12 @@
     border: none;
     outline: none;
 }
+
+.IconButton {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}

@@ -14,8 +14,11 @@ function App() {
             <Header />
 
             <Switch>
-                <Route path="/search">
-
+                <Route path="/search/:searchTerm">
+                    <div className="app__page">
+                        <Sidebar />
+                        <RecommendedVideos />
+                    </div>
                 </Route>
                 <Route path="/">
 
