@@ -85,7 +85,7 @@ const SearchPage = () => {
                 image="https://i.ytimg.com/an_webp/nSDgHBxUbVQ/mqdefault_6s.webp?du=3000&sqp=CMyz4v8F&rs=AOn4CLB5rD8P-txN70XgZzuA6zovwbC-tA"
             />
         </div>
-    )
+    );
 }
 
 export default SearchPage;

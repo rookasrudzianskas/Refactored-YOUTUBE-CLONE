@@ -6,12 +6,9 @@
 
 .searchPage__filter{
     display: flex;
-    flex-direction: row;
     align-items: center;
-    /*align-items: center;*/
     color: #606060;
     font-size: xx-small !important;
-    /*align-items: center;*/
 }
 
 .searchPage__filter > h2 {
